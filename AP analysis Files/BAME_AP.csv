@@ -1,0 +1,149 @@
+,aggregation_type,aggregation_code,aggregation_name,needs_resource_code,needs_resource_desc,county_code,county_desc,subgroup_code,subgroup_name,student_gender,ethnic_desc,swd_ind,ell_ind,eco_dis_ind,apib_ind,state_code,item_desc,item_subject_area,student_cnt,proficient_student_cnt,assessment_cnt,level1_cnt,level2_cnt,level3_cnt,level4_cnt,level5_cnt,level6_cnt,level7_cnt
+22490,3,10000000000,ALBANY,0,,1.0,ALBANY,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,105,57,148,35,41,43,18,11,0,0
+22491,3,10000000000,ALBANY,0,,1.0,ALBANY,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,68,47,110,12,22,22,30,24,0,0
+22492,3,10000000000,ALBANY,0,,1.0,ALBANY,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,348,301,739,35,96,162,217,229,0,0
+23331,3,30000000000,BROOME,0,,3.0,BROOME,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,19,14,30,5,6,11,5,3,0,0
+23332,3,30000000000,BROOME,0,,3.0,BROOME,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,29,18,49,8,16,11,14,0,0,0
+23333,3,30000000000,BROOME,0,,3.0,BROOME,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,62,43,101,6,30,25,25,15,0,0
+23335,3,30000000000,BROOME,0,,3.0,BROOME,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,30,15,53,16,14,6,11,6,0,0
+24230,3,40000000000,CATTARAUGUS,0,,4.0,CATTARAUGUS,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,12,4,14,6,3,4,1,0,0,0
+24514,3,60000000000,CHAUTAUQUA,0,,6.0,CHAUTAUQUA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,31,25,44,5,8,17,10,4,0,0
+24515,3,60000000000,CHAUTAUQUA,0,,6.0,CHAUTAUQUA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,12,10,22,1,5,6,6,4,0,0
+24517,3,60000000000,CHAUTAUQUA,0,,6.0,CHAUTAUQUA,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,15,10,27,1,8,8,5,5,0,0
+24958,3,70000000000,CHEMUNG,0,,7.0,CHEMUNG,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,12,12,19,0,0,7,6,6,0,0
+24960,3,70000000000,CHEMUNG,0,,7.0,CHEMUNG,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,3,3,5,0,0,1,1,3,0,0
+25264,3,90000000000,CLINTON,0,,9.0,CLINTON,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,7,2,8,1,4,2,1,0,0,0
+25266,3,90000000000,CLINTON,0,,9.0,CLINTON,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,8,6,13,0,2,4,3,4,0,0
+25507,3,100000000000,COLUMBIA,0,,10.0,COLUMBIA,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,8,4,10,1,4,4,1,0,0,0
+25508,3,100000000000,COLUMBIA,0,,10.0,COLUMBIA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,10,6,14,2,3,3,4,2,0,0
+25509,3,100000000000,COLUMBIA,0,,10.0,COLUMBIA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,34,18,41,5,15,7,10,4,0,0
+25511,3,100000000000,COLUMBIA,0,,10.0,COLUMBIA,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,6,4,6,1,1,2,2,0,0,0
+25896,3,130000000000,DUTCHESS,0,,13.0,DUTCHESS,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,128,55,178,52,53,39,29,5,0,0
+25897,3,130000000000,DUTCHESS,0,,13.0,DUTCHESS,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,232,162,407,48,93,138,75,53,0,0
+25898,3,130000000000,DUTCHESS,0,,13.0,DUTCHESS,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,214,184,547,22,94,150,166,115,0,0
+27136,3,140000000000,ERIE,0,,14.0,ERIE,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,27,15,41,5,16,13,6,1,0,0
+27137,3,140000000000,ERIE,0,,14.0,ERIE,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,348,116,466,160,157,97,41,11,0,0
+27138,3,140000000000,ERIE,0,,14.0,ERIE,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,229,132,321,77,74,99,46,25,0,0
+27139,3,140000000000,ERIE,0,,14.0,ERIE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,514,386,1066,121,153,260,271,261,0,0
+27141,3,140000000000,ERIE,0,,14.0,ERIE,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,128,88,201,20,47,64,43,27,0,0
+28703,3,160000000000,FRANKLIN,0,,16.0,FRANKLIN,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,11,3,13,4,6,3,0,0,0,0
+28705,3,160000000000,FRANKLIN,0,,16.0,FRANKLIN,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,3,2,5,0,2,3,0,0,0,0
+28844,3,170000000000,FULTON,0,,17.0,FULTON,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,4,3,7,0,1,4,1,1,0,0
+28845,3,170000000000,FULTON,0,,17.0,FULTON,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4,2,6,1,3,2,0,0,0,0
+29031,3,180000000000,GENESEE,0,,18.0,GENESEE,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,7,3,8,1,3,3,1,0,0,0
+29032,3,180000000000,GENESEE,0,,18.0,GENESEE,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,6,4,11,1,3,4,2,1,0,0
+29033,3,180000000000,GENESEE,0,,18.0,GENESEE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,5,2,5,1,2,1,1,0,0,0
+29650,3,220000000000,JEFFERSON,0,,22.0,JEFFERSON,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,12,7,20,2,8,6,4,0,0,0
+29653,3,220000000000,JEFFERSON,0,,22.0,JEFFERSON,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,11,8,21,2,4,5,8,2,0,0
+29989,3,240000000000,LIVINGSTON,0,,24.0,LIVINGSTON,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,13,10,26,0,5,5,8,8,0,0
+29991,3,240000000000,LIVINGSTON,0,,24.0,LIVINGSTON,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,6,3,11,0,4,4,2,1,0,0
+30350,3,250000000000,MADISON,0,,25.0,MADISON,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,12,9,17,2,2,6,6,1,0,0
+30556,3,260000000000,MONROE,0,,26.0,MONROE,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,4,1,9,3,5,1,0,0,0,0
+30557,3,260000000000,MONROE,0,,26.0,MONROE,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,462,173,668,225,215,144,57,27,0,0
+30558,3,260000000000,MONROE,0,,26.0,MONROE,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,321,177,492,94,137,123,88,50,0,0
+30559,3,260000000000,MONROE,0,,26.0,MONROE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,504,399,1214,78,173,293,331,339,0,0
+30561,3,260000000000,MONROE,0,,26.0,MONROE,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,139,100,263,25,63,67,69,39,0,0
+32178,3,270000000000,MONTGOMERY,0,,27.0,MONTGOMERY,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,10,5,15,3,3,6,2,1,0,0
+32179,3,270000000000,MONTGOMERY,0,,27.0,MONTGOMERY,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4,2,7,2,2,1,2,0,0,0
+32374,3,280000000000,NASSAU,0,,28.0,NASSAU,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,26,17,47,8,8,10,12,9,0,0
+32375,3,280000000000,NASSAU,0,,28.0,NASSAU,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,1568,993,2879,456,757,901,542,223,0,0
+32376,3,280000000000,NASSAU,0,,28.0,NASSAU,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,2692,1902,4850,601,1157,1467,1062,563,0,0
+32377,3,280000000000,NASSAU,0,,28.0,NASSAU,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4841,4205,12332,659,1802,3317,3552,3002,0,0
+32379,3,280000000000,NASSAU,0,,28.0,NASSAU,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,238,196,523,29,93,158,138,105,0,0
+34706,3,310000000000,NEW YORK,0,,31.0,NEW YORK,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,118,69,187,43,45,43,33,23,0,0
+34707,3,310000000000,NEW YORK,0,,31.0,NEW YORK,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,2145,919,3172,954,1006,728,345,139,0,0
+34708,3,310000000000,NEW YORK,0,,31.0,NEW YORK,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,5961,3296,9141,2232,2490,2198,1366,855,0,0
+34709,3,310000000000,NEW YORK,0,,31.0,NEW YORK,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4093,3292,7195,621,1174,1739,1740,1921,0,0
+34711,3,310000000000,NEW YORK,0,,31.0,NEW YORK,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,499,417,812,51,132,210,234,185,0,0
+37925,3,320000000000,BRONX,0,,32.0,BRONX,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,92,42,142,41,43,29,15,14,0,0
+37926,3,320000000000,BRONX,0,,32.0,BRONX,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,1900,729,2812,1021,879,595,230,87,0,0
+37927,3,320000000000,BRONX,0,,32.0,BRONX,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,4191,2039,6391,2031,1794,1281,764,521,0,0
+37928,3,320000000000,BRONX,0,,32.0,BRONX,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,1689,1383,3588,265,517,848,1040,918,0,0
+37930,3,320000000000,BRONX,0,,32.0,BRONX,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,115,76,194,30,36,32,55,41,0,0
+40570,3,330000000000,KINGS,0,,33.0,KINGS,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,160,85,295,67,97,69,44,18,0,0
+40571,3,330000000000,KINGS,0,,33.0,KINGS,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,5313,2178,8707,2912,2696,1978,854,267,0,0
+40572,3,330000000000,KINGS,0,,33.0,KINGS,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,3686,1913,5790,1667,1475,1332,810,506,0,0
+40573,3,330000000000,KINGS,0,,33.0,KINGS,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,5560,4385,10750,1091,1871,3034,2782,1972,0,0
+40575,3,330000000000,KINGS,0,,33.0,KINGS,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,290,193,498,79,107,152,108,52,0,0
+44176,3,340000000000,QUEENS,0,,34.0,QUEENS,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,314,142,489,123,174,112,61,19,0,0
+44177,3,340000000000,QUEENS,0,,34.0,QUEENS,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,2385,944,3647,1302,1077,821,313,134,0,0
+44178,3,340000000000,QUEENS,0,,34.0,QUEENS,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,5378,2947,7965,2029,2179,1903,1133,721,0,0
+44179,3,340000000000,QUEENS,0,,34.0,QUEENS,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,6969,4782,12002,1834,2653,3425,2459,1631,0,0
+44181,3,340000000000,QUEENS,0,,34.0,QUEENS,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,480,279,788,169,204,205,140,70,0,0
+47218,3,350000000000,RICHMOND,0,,35.0,RICHMOND,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,18,13,25,2,6,7,7,3,0,0
+47219,3,350000000000,RICHMOND,0,,35.0,RICHMOND,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,326,113,456,152,164,84,35,21,0,0
+47220,3,350000000000,RICHMOND,0,,35.0,RICHMOND,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,591,286,867,212,259,198,151,47,0,0
+47221,3,350000000000,RICHMOND,0,,35.0,RICHMOND,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,1012,812,1806,153,299,536,451,367,0,0
+47223,3,350000000000,RICHMOND,0,,35.0,RICHMOND,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,44,21,52,12,14,11,8,7,0,0
+49089,3,400000000000,NIAGARA,0,,40.0,NIAGARA,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,25,11,30,4,13,7,3,3,0,0
+49090,3,400000000000,NIAGARA,0,,40.0,NIAGARA,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,55,16,83,28,29,20,6,0,0,0
+49091,3,400000000000,NIAGARA,0,,40.0,NIAGARA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,25,14,40,8,13,11,6,2,0,0
+49092,3,400000000000,NIAGARA,0,,40.0,NIAGARA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,37,19,61,10,15,16,16,4,0,0
+49094,3,400000000000,NIAGARA,0,,40.0,NIAGARA,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,24,7,34,14,10,7,2,1,0,0
+49583,3,410000000000,ONEIDA,0,,41.0,ONEIDA,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,42,13,53,20,14,15,3,1,0,0
+49584,3,410000000000,ONEIDA,0,,41.0,ONEIDA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,48,25,66,17,15,23,7,4,0,0
+49585,3,410000000000,ONEIDA,0,,41.0,ONEIDA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,119,52,187,44,60,38,25,20,0,0
+50142,3,420000000000,ONONDAGA,0,,42.0,ONONDAGA,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,83,40,114,14,40,37,15,8,0,0
+50143,3,420000000000,ONONDAGA,0,,42.0,ONONDAGA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,57,39,82,6,18,25,20,13,0,0
+50144,3,420000000000,ONONDAGA,0,,42.0,ONONDAGA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,199,168,368,19,51,93,103,102,0,0
+51314,3,430000000000,ONTARIO,0,,43.0,ONTARIO,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,3,2,7,3,1,2,1,0,0,0
+51315,3,430000000000,ONTARIO,0,,43.0,ONTARIO,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,12,9,23,1,5,10,7,0,0,0
+51316,3,430000000000,ONTARIO,0,,43.0,ONTARIO,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,27,22,48,7,6,12,17,6,0,0
+51317,3,430000000000,ONTARIO,0,,43.0,ONTARIO,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,44,39,102,3,17,24,27,31,0,0
+51319,3,430000000000,ONTARIO,0,,43.0,ONTARIO,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,26,18,44,9,6,14,7,8,0,0
+51965,3,440000000000,ORANGE,0,,44.0,ORANGE,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,6,4,12,1,2,7,1,1,0,0
+51966,3,440000000000,ORANGE,0,,44.0,ORANGE,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,117,62,171,13,69,61,21,7,0,0
+51967,3,440000000000,ORANGE,0,,44.0,ORANGE,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,250,160,384,50,109,136,65,24,0,0
+51968,3,440000000000,ORANGE,0,,44.0,ORANGE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,151,131,296,18,40,117,88,33,0,0
+51970,3,440000000000,ORANGE,0,,44.0,ORANGE,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,36,29,60,5,12,18,13,12,0,0
+52921,3,460000000000,OSWEGO,0,,46.0,OSWEGO,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,8,7,11,1,2,2,3,3,0,0
+53291,3,480000000000,PUTNAM,0,,48.0,PUTNAM,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,136,104,205,17,40,77,41,30,0,0
+53292,3,480000000000,PUTNAM,0,,48.0,PUTNAM,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,56,50,119,2,16,33,45,23,0,0
+53294,3,480000000000,PUTNAM,0,,48.0,PUTNAM,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,22,18,43,1,9,4,13,16,0,0
+53970,3,490000000000,RENSSELAER,0,,49.0,RENSSELAER,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,48,21,93,38,22,19,14,0,0,0
+53971,3,490000000000,RENSSELAER,0,,49.0,RENSSELAER,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,15,11,27,5,3,11,3,5,0,0
+53972,3,490000000000,RENSSELAER,0,,49.0,RENSSELAER,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,21,20,40,2,3,12,16,7,0,0
+53974,3,490000000000,RENSSELAER,0,,49.0,RENSSELAER,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,19,17,31,1,2,13,11,4,0,0
+54362,3,500000000000,ROCKLAND,0,,50.0,ROCKLAND,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,188,129,307,48,75,106,57,21,0,0
+54363,3,500000000000,ROCKLAND,0,,50.0,ROCKLAND,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,420,301,637,68,143,199,138,89,0,0
+54364,3,500000000000,ROCKLAND,0,,50.0,ROCKLAND,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,428,372,899,38,124,246,245,246,0,0
+55405,3,510000000000,SAINT LAWRENCE,0,,51.0,SAINT LAWRENCE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4,3,8,1,0,0,1,6,0,0
+55657,3,520000000000,SARATOGA,0,,52.0,SARATOGA,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,21,10,23,6,5,7,2,3,0,0
+55658,3,520000000000,SARATOGA,0,,52.0,SARATOGA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,35,29,55,2,10,18,12,13,0,0
+55659,3,520000000000,SARATOGA,0,,52.0,SARATOGA,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,162,147,306,8,34,73,93,98,0,0
+55661,3,520000000000,SARATOGA,0,,52.0,SARATOGA,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,40,27,55,4,12,12,16,11,0,0
+56232,3,530000000000,SCHENECTADY,0,,53.0,SCHENECTADY,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,9,7,16,1,7,5,3,0,0,0
+56233,3,530000000000,SCHENECTADY,0,,53.0,SCHENECTADY,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,20,17,25,3,0,10,4,8,0,0
+56234,3,530000000000,SCHENECTADY,0,,53.0,SCHENECTADY,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,82,76,195,4,17,59,58,57,0,0
+56236,3,530000000000,SCHENECTADY,0,,53.0,SCHENECTADY,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,9,7,16,1,2,5,4,4,0,0
+56711,3,540000000000,SCHOHARIE,0,,54.0,SCHOHARIE,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,3,2,5,1,1,0,3,0,0,0
+56975,3,560000000000,SENECA,0,,56.0,SENECA,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,3,2,5,0,3,1,0,1,0,0
+57086,3,570000000000,STEUBEN,0,,57.0,STEUBEN,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,5,3,5,1,1,2,1,0,0,0
+57087,3,570000000000,STEUBEN,0,,57.0,STEUBEN,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,8,7,9,0,2,5,1,1,0,0
+57088,3,570000000000,STEUBEN,0,,57.0,STEUBEN,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,24,21,33,1,2,9,9,12,0,0
+57090,3,570000000000,STEUBEN,0,,57.0,STEUBEN,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,7,6,7,0,1,4,0,2,0,0
+57339,3,580000000000,SUFFOLK,0,,58.0,SUFFOLK,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,27,19,48,5,12,15,12,4,0,0
+57340,3,580000000000,SUFFOLK,0,,58.0,SUFFOLK,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,654,426,1095,180,275,361,195,84,0,0
+57341,3,580000000000,SUFFOLK,0,,58.0,SUFFOLK,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,2264,1590,3845,461,904,1188,848,444,0,0
+57342,3,580000000000,SUFFOLK,0,,58.0,SUFFOLK,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,1534,1301,3612,219,585,1060,952,796,0,0
+57344,3,580000000000,SUFFOLK,0,,58.0,SUFFOLK,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,255,206,483,34,91,163,126,69,0,0
+60278,3,590000000000,SULLIVAN,0,,59.0,SULLIVAN,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,8,4,8,1,3,4,0,0,0,0
+60279,3,590000000000,SULLIVAN,0,,59.0,SULLIVAN,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,10,5,10,0,5,2,3,0,0,0
+60526,3,610000000000,TOMPKINS,0,,61.0,TOMPKINS,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,8,7,15,1,2,4,3,5,0,0
+60527,3,610000000000,TOMPKINS,0,,61.0,TOMPKINS,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,21,17,38,1,4,9,13,11,0,0
+60528,3,610000000000,TOMPKINS,0,,61.0,TOMPKINS,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,86,77,203,7,18,33,57,88,0,0
+60530,3,610000000000,TOMPKINS,0,,61.0,TOMPKINS,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,48,39,94,2,16,20,31,25,0,0
+61095,3,620000000000,ULSTER,0,,62.0,ULSTER,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,46,25,75,18,20,18,15,4,0,0
+61096,3,620000000000,ULSTER,0,,62.0,ULSTER,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,71,43,117,23,22,34,27,11,0,0
+61097,3,620000000000,ULSTER,0,,62.0,ULSTER,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,67,52,140,15,31,36,34,24,0,0
+61779,3,630000000000,WARREN,0,,63.0,WARREN,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,4,3,7,2,2,2,1,0,0,0
+61780,3,630000000000,WARREN,0,,63.0,WARREN,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,7,6,13,0,3,4,4,2,0,0
+62075,3,640000000000,WASHINGTON,0,,64.0,WASHINGTON,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,6,3,6,1,2,2,1,0,0,0
+62077,3,640000000000,WASHINGTON,0,,64.0,WASHINGTON,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,3,3,5,0,0,2,3,0,0,0
+62296,3,650000000000,WAYNE,0,,65.0,WAYNE,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,12,8,16,4,3,5,2,2,0,0
+62297,3,650000000000,WAYNE,0,,65.0,WAYNE,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,4,3,7,0,2,4,1,0,0,0
+62553,3,660000000000,WESTCHESTER,0,,66.0,WESTCHESTER,4,American Indian or Alaska Native,,American Indian or Alaska Native,0,0,0,AP,,All AP Assessments,,4,4,8,0,0,2,5,1,0,0
+62554,3,660000000000,WESTCHESTER,0,,66.0,WESTCHESTER,5,Black or African American,,Black or African American,0,0,0,AP,,All AP Assessments,,435,276,663,94,165,188,141,75,0,0
+62555,3,660000000000,WESTCHESTER,0,,66.0,WESTCHESTER,6,Hispanic or Latino,,Hispanic or Latino,0,0,0,AP,,All AP Assessments,,1901,1431,2952,311,591,813,750,487,0,0
+62556,3,660000000000,WESTCHESTER,0,,66.0,WESTCHESTER,7,Asian or Native Hawaiian/Other Pacific Islander,,Asian or Native Hawaiian/Other Pacific Islander,0,0,0,AP,,All AP Assessments,,964,872,2079,71,226,455,637,690,0,0
+62558,3,660000000000,WESTCHESTER,0,,66.0,WESTCHESTER,9,Multiracial,,Multiracial,0,0,0,AP,,All AP Assessments,,249,203,518,23,75,106,159,155,0,0
